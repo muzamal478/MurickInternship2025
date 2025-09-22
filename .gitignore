@@ -7,3 +7,9 @@ adult.csv
 # Python cache
 __pycache__/
 *.pyc
+# Large files
+*.xlsx
+# Outputs (generated)
+food_waste_cleaned.csv
+interactive_scatter.html
+visuals/
