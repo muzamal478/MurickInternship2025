@@ -6,6 +6,7 @@ This repository contains my work for the AI & ML Internship at Murick Technologi
 
 ## Folders
 - `Week1_Python`: Solutions to 10 Python programming questions.
+- `Data_Analysis_Adult`: Data analysis on Adult.csv for income prediction.
 - (More to be added as internship progresses)
 
 ## Author
