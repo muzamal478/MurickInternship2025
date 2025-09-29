@@ -20,3 +20,7 @@ visuals/
 house_data_cleaned.csv
 interactive_predictions.html
 visuals/
+*.csv
+visuals/
+interactive_roc.html
+heart_data_cleaned.csv

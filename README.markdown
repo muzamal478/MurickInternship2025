@@ -8,7 +8,8 @@ This repository contains my work for the AI & ML Internship at Murick Technologi
 - `Week1_Python`: Solutions to 10 Python programming questions.
 - `Data_Analysis_Adult`: Data analysis on Adult.csv for income prediction.
 - `Food_Waste_EDA`: Comprehensive EDA on food waste dataset with visualizations and recommendations.
-- `Real_Estate_Regression`: Regression analysis to predict house prices with multiple models and visualizations.
+- `Real_Estate_Regression`: Regression analysis to predict house prices with multiple models and visualizations..
+- `ML_Classification_Project`: Classification models for heart disease prediction with 92% accuracy.
 
 ## Author
 Muzamil Asghar  
