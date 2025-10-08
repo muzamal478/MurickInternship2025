@@ -12,15 +12,17 @@ __pycache__/
 # Outputs (generated)
 food_waste_cleaned.csv
 interactive_scatter.html
-visuals/
 # Large files
 *.csv
 *.xlsx
 # Outputs (generated)
 house_data_cleaned.csv
 interactive_predictions.html
-visuals/
 *.csv
-visuals/
 interactive_roc.html
 heart_data_cleaned.csv
+
+*.xlsx
+*.csv
+interactive_3d_clusters.html
+rfm_data.csv
