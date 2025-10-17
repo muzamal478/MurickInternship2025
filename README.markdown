@@ -11,6 +11,7 @@ This repository contains my work for the AI & ML Internship at Murick Technologi
 - `Real_Estate_Regression`: Regression analysis to predict house prices with multiple models and visualizations.
 - `ML_Classification_Project`: Classification models for heart disease prediction with 92% accuracy.
 - `Customer_Segmentation`: RFM analysis and K-Means clustering on 541K e-commerce dataset, with Streamlit app for interactive visualizations.
+- `Credit_Risk_Prediction:` Supervised classification for loan default, 93% accuracy with XGBoost, Streamlit app.
 
 ## Author
 Muzamil Asghar  
