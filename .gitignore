@@ -1,5 +1,4 @@
 # Ignore large datasets
-adult.csv
 *.csv
 *.xlsx
 # Jupyter checkpoints
@@ -7,18 +6,10 @@ adult.csv
 # Python cache
 __pycache__/
 *.pyc
-# Large files
-*.xlsx
-# Outputs (generated)
+# Ignore large datasets
 food_waste_cleaned.csv
-# Large files
-*.csv
-*.xlsx
-# Outputs (generated)
 house_data_cleaned.csv
-*.csv
 heart_data_cleaned.csv
-
-*.xlsx
-*.csv
+loan_default_cleaned.csv
 rfm_data.csv
+adult.csv
