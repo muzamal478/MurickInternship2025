@@ -12,6 +12,7 @@ This repository contains my work for the AI & ML Internship at Murick Technologi
 - `ML_Classification_Project`: Classification models for heart disease prediction with 92% accuracy.
 - `Customer_Segmentation`: RFM analysis and K-Means clustering on 541K e-commerce dataset, with Streamlit app for interactive visualizations.
 - `Credit_Risk_Prediction:` Supervised classification for loan default, 93% accuracy with XGBoost, Streamlit app.
+- `Student_Performance_Prediction:` Platform with ML models (R²=0.85) and Streamlit app for grade prediction and analytics.
 
 ## Author
 Muzamil Asghar  

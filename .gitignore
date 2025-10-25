@@ -13,3 +13,5 @@ heart_data_cleaned.csv
 loan_default_cleaned.csv
 rfm_data.csv
 adult.csv
+student_data.csv
+student_data_cleaned.csv

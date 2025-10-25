@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
+reportlab
+xgboost
+seaborn
+matplotlib
+openpyxl
+statsmodels
